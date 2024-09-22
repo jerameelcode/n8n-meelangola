@@ -3694,7 +3694,7 @@ packages:
 
   '@n8n/tournament@1.0.5':
     resolution: {integrity: sha512-IPBHa7gC0wwHVct/dnBquHz+uMCDZaZ05cor1D/rjlwaOe/PVu5mtoZaPHYuR98R3W1/IyxC5PuBd0JizDP9gg==}
-    engines: {node: '>=20.15', pnpm: '>=9.5'}
+    engines: {node: '>=20.15', pnpm: '>=9.4.0'}
 
   '@n8n/typeorm@0.3.20-10':
     resolution: {integrity: sha512-YYQKkafEGqNAG+VgtGbJOWpcyF4ZsRJ+Q7qXigTXZFQb4xpL/+t0BXEMhy8Gw0OEjnZI5cbLGHcQtj7Xlfg7dw==}
